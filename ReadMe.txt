@@ -1,0 +1,1 @@
+I have attached the screenshot of running test for both the cases.
